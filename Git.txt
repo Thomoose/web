@@ -1,0 +1,11 @@
+Git
+https://git-scm.com/
+KnvST4bJlX4L
+git clone {url}
+
+git pull
+git status
+
+git add .
+git commit -m "Comments"
+git push origin master

@@ -1,0 +1,19 @@
+download
+https://code.visualstudio.com/Download
+OR command line
+sudo dpkg -i <file>.deb
+sudo apt-get install -f # Install dependencies
+
+Then update the package cache and install the package using:
+sudo apt-get update
+sudo apt-get install code # or code-insiders
+
+Node-JS
+    sudo apt-get update
+    sudo apt-get install nodejs
+    sudo apt-get install npm
+
+Git
+https://git-scm.com/
+KnvST4bJlX4L
+git clone {url}
