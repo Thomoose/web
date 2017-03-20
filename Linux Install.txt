@@ -15,5 +15,4 @@ Node-JS
 
 Git
 https://git-scm.com/
-KnvST4bJlX4L
 git clone {url}
